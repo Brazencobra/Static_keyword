@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\bin\Debug\net6.0\Static - Sealed - Nullable.exe
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\bin\Debug\net6.0\Static - Sealed - Nullable.deps.json
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\bin\Debug\net6.0\Static - Sealed - Nullable.runtimeconfig.json
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\bin\Debug\net6.0\Static - Sealed - Nullable.dll
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\bin\Debug\net6.0\Static - Sealed - Nullable.pdb
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\obj\Debug\net6.0\Static - Sealed - Nullable.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\obj\Debug\net6.0\Static - Sealed - Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\obj\Debug\net6.0\Static - Sealed - Nullable.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\obj\Debug\net6.0\Static - Sealed - Nullable.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\obj\Debug\net6.0\Static - Sealed - Nullable.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\obj\Debug\net6.0\Static - Sealed - Nullable.dll
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\obj\Debug\net6.0\refint\Static - Sealed - Nullable.dll
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\obj\Debug\net6.0\Static - Sealed - Nullable.pdb
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\obj\Debug\net6.0\Static - Sealed - Nullable.genruntimeconfig.cache
+C:\Users\user\Desktop\Projects\Static - Sealed - Nullable\Static - Sealed - Nullable\obj\Debug\net6.0\ref\Static - Sealed - Nullable.dll
